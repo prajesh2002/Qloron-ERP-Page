@@ -1,0 +1,17 @@
+.sec4-container {
+    background: url("../images/section4.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sec4-left {
+    /* font-size: 22px; */
+    font-weight: bold;
+}
+
+/* .sec4-right {
+    width:30%;
+} */

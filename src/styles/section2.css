@@ -1,0 +1,11 @@
+.sec2-container{
+    /* max-width: 50%; */
+    margin: 0 20%;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.sec2-container h1{
+    font-weight: 600;
+    /* font-size: 40px; */
+}

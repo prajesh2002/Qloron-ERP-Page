@@ -1,0 +1,14 @@
+.sec3-left h1{
+    font-weight: 600;
+    /* font-size: 30px; */
+}
+
+.sec3-btn{
+    background-color: #12B1BE;
+    color: white;
+    font-weight: 600;
+    padding: 15px 10px;
+    border: none;
+    border-radius: 5px;
+    /* margin-top: 5%; */
+}
